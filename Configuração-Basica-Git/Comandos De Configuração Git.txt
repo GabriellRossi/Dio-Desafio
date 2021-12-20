@@ -1,0 +1,18 @@
+# CONFIGURAÇÕES BÁSICAS PARA FAZER NO TERMINAL BASH
+
+Comando ↓
+
+git config –global user.name ( Seu Usuario do Github ) 
+
+git config –global user.email ( Seu Email do github ) 
+
+Como editar algum campo seja seu user name, seu user email etc..
+
+Comando ↓
+
+git config –global –unset user.name ( Aqui edita o seu name )
+git config –global –unset user.email ( Aqui edita o seu email )
+
+OBS: Ao criar sua conta no GitHub coloque o mesmo user name e email iguais nas configurações do git
+
+Link Para Criar Conta no Github https://github.com/signup
